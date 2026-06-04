@@ -6,6 +6,6 @@
 <p align="center">$${\color{#ff422f}DID System  ◞   OCD  ◞   Dyslexic}$$</p>
 <p align="center">$${\color{#ff5454}Taken  \space \color{#ffa5c4}♡ \space \color{#ff5454} Nix}$$</p>
 <p align="center">$${\color{#974fff}─ ☯︎ ─}$$</p>
-<p align="center">$${\color{#ff6d6d}C/H \space \color{ff6d6d}always \space \color{#ff6d6d}on \space \color{#ff6d6d}unless \space \color{#ff6d6d}stated \space \color{#ff6d6d}otherwise \space \color{#ff6d6d}  ◞    \space \color{#ff6d6d}Three \space \color{#ff6d6d}skin \space \color{#ff6d6d}styles...}$$</p>
+<p align="center">$${\color{#ff6d6d}C/H \space \color{ff6d6d}always \space \color{#ff6d6d}on \space \color{#ff6d6d}unless \space \color{#ff6d6d}stated \space \color{#ff6d6d}otherwise}$$</p>
 <p align="center">$${\color{#974fff}─ ☯︎ ─}$$</p>
 <p align="center">$${\color{#ff8080}read \space \color{#ff8080}strawpage \space \color{white}/ \space \color{#ff8080}first \space \color{#ff8080}link}$$</p>

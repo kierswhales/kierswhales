@@ -7,4 +7,4 @@
 <p align="center">$${\color{#974fff}─ ☯︎ ─}$$</p>
 <p align="center">$${\color{#ff6d6d}C/H \space \color{ff6d6d}always \space \color{#ff6d6d}on \space \color{#ff6d6d}unless \space \color{#ff6d6d}stated \space \color{#ff6d6d}otherwise}$$</p>
 <p align="center">$${\color{#974fff}─ ☯︎ ─}$$</p>
-<p align="center">$${\color{#ff8080}rmking \space \color{#ff8080}strawpage}$$</p>
+<p align="center">$${\color{#ff8080}read \space \color{#ff8080}strawpage}$$</p>
